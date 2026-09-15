@@ -71,6 +71,11 @@ I worked on differentiable reasoning with fuzzy **ALC description logic**, study
 
 This work resulted in a first-author **oral paper at ACM SIGKDD 2026**.
 
+### Minimax Optimization for Vertical Federated Learning
+**Nanjing University · 2026–Present**
+
+I work on communication-efficient minimax optimization for vertical federated learning, including block-coordinate methods and error-feedback compression. I also study convergence and communication complexity under different minimax settings.
+
 ## Publications
 
 <div class="paper">
@@ -87,5 +92,5 @@ This work resulted in a first-author **oral paper at ACM SIGKDD 2026**.
 
 ## Contact
 
-**Email:** [ShaoZihan2025@163.com](mailto:ShaoZihan2025@163.com)  
+**Email:** [231840016@smail.nju.edu.cn](mailto:231840016@smail.nju.edu.cn)  
 **GitHub:** [github.com/ZihanShao](https://github.com/ZihanShao)
