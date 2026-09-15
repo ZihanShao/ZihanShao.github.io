@@ -48,7 +48,7 @@ B.S. Mathematics, Nanjing University · Visiting Researcher at Yale University
 </div>
 
 [Email](mailto:ShaoZihan2025@163.com) ·
-[CV](/files/Zihan_Shao_CV.pdf) ·
+[CV](/files/Resume-ZihanShao.pdf) ·
 [GitHub](https://github.com/ZihanShao)
 
 ## About
